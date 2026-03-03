@@ -1,16 +1,17 @@
-//KULLANICI TARAFINDAN GÝRÝLEN SAYIYI EKRANA YAZDIRMA 
+//KULLANICI TARAFINDAN GÄ°RÄ°LEN SAYIYI EKRANA YAZDIRMA 
  #include <stdio.h>
   
   int main(){
 	
 	int sayi;
 	
-	/*kullanýcýdan sayý al*/
+	/*kullanÄ±cÄ±dan sayÄ± al*/
 	printf("lutfen sayi degeri giriniz :");
 	scanf("%d",&sayi );
 	 
-	 /*sayý deðerini yazdýr*/
+	 /*sayÄ± deÄŸerini yazdÄ±r*/
 	 printf("Girdiginiz sayi degeri : %d",sayi);
 	  
 	  return 0;
     }
+
